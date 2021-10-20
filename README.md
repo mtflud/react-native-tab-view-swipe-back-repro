@@ -2,7 +2,7 @@
 
 Please install / run this repo as any other React Native project
 
-** Make sure to test using a real device ** (swipe back is difficult to perform on a Simulator)
+**Make sure to test using a real device** (swipe back is difficult to perform on a Simulator)
 
 # Reproduction Steps
 
